@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+.copy_right_footer{
+    bottom: 0%;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+}
+.heading{
+    width: 100%;
+    margin: 0%;
+}
+canvas{
+    margin-top: 130px;
+    border: 2px solid white;
+}
